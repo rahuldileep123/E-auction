@@ -1,0 +1,10 @@
+.dash{
+    background-image: url("../assets/dash.jpg");
+    height: 100vh;
+}
+.screen{
+    background-image: url("../assets/screen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
